@@ -7,4 +7,5 @@ public class TestClass implements TestInteface {
 		return "branch에서 merge 테스트";
 	}
 	// 추가
+	// 추가2
 }

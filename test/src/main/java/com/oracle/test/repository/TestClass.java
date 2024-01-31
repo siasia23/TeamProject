@@ -6,5 +6,5 @@ public class TestClass implements TestInteface {
 	public String interfaceMethod() {
 		return "branch에서 merge 테스트";
 	}
-
+	// 추가
 }
